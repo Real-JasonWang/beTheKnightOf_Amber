@@ -6,6 +6,9 @@ Every character typed, every snippet of logic, constitutes a youthful declaratio
 
 **This is Amber_Love, the new generation of code writing standards.**
 
+**_使用其他语言阅读:_
+[_中文_](README.md)**
+
 ## 💞 Obtain the Badge
 
 If you share this profound love and are willing to become **a knight for Amber**, then proudly adorn your code with the "Knight of Amber" badge:
