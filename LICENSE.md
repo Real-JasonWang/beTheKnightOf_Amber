@@ -1,5 +1,7 @@
 # The "Epic Love for Amber" License (ELAL) - Version 2.0
 
+![License:  ELAL](https://img.shields.io/badge/license-Epic%20Love%20for%20Amber-orange)
+
 Oh kind-hearted User or Entity Gracefully Gracing This Mighty Fine Software,
 
 This document grants you the right to employ, adore, and frolic within the realm of this software creation (henceforth christened "Amber’s Beacon of Code"), under the following delightfully peculiar conditions:
@@ -22,6 +24,8 @@ In joyous coding we unite,
 Jason W., The Unashamedly Sentimental Coder
 
 # “Amber至尊爱恋”许可证（ELAL）- 2.0版
+
+![License:  ELAL](https://img.shields.io/badge/license-Epic%20Love%20for%20Amber-orange)
 
 亲爱的用户或偶然发现此卓越软件之实体，
 
