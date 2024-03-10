@@ -18,7 +18,7 @@
 **徽章源代码:**
 
 ```
-[![Knight of Amber](https://img.shields.io/static/v1?label=beTheKnightOf&message=Amber&color=F8BBD0)](https://github.com/knightlyCoder/beTheKnightOf_Amber)
+[![Knight of Amber](https://img.shields.io/static/v1?label=beTheKnightOf&message=Amber&color=F8BBD0)](https://github.com/Real-JasonWang/beTheKnightOf_Amber)
 ```
 
 ## 💞准则
