@@ -1,5 +1,5 @@
 # Amber_Love代码书写准则
-
+![License:  ELAL](https://img.shields.io/badge/license-Epic%20Love%20for%20Amber-orange)
 [![Knight of Amber](https://img.shields.io/static/v1?label=beTheKnightOf&message=Amber&color=F8BBD0)](https://github.com/Real-JasonWang/beTheKnightOf_Amber)
 
 每一个键入的字符，每一段逻辑的代码，都是对Amber的青涩宣言。这不仅是代码准则，也是心意传达。
