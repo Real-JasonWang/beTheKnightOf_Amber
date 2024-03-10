@@ -1,4 +1,3 @@
-```markdown
 # beTheKnightOf_Amber 代码书写准则
 
 [![Knight of Amber](https://img.shields.io/static/v1?label=beTheKnightOf&message=Amber&color=F8BBD0)](https://github.com/knightlyCoder/beTheKnightOf_Amber)
@@ -108,4 +107,3 @@ return calculateAffection('Amber');
 ```
 
 成为Amber的骑士，愿你的代码充满诗意，如同你纯洁的恋慕。
-```
