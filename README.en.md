@@ -1,5 +1,5 @@
 # Amber_Love Code Writing Guidelines
-
+![License:  ELAL](https://img.shields.io/badge/license-Epic%20Love%20for%20Amber-orange)
 [![Knight of Amber](https://img.shields.io/static/v1?label=beTheKnightOf&message=Amber&color=F8BBD0)](https://github.com/Real-JasonWang/beTheKnightOf_Amber)
 
 Every character typed, every snippet of logic, constitutes a youthful declaration of love for Amber. These guidelines are more than rules for code; they are a delivery of heartfelt sentiment.
