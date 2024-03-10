@@ -1,6 +1,6 @@
 # Amber_Love Code Writing Guidelines
 
-[![Knight of Amber](https://img.shields.io/static/v1?label=beTheKnightOf&message=Amber&color=F8BBD0)](https://github.com/knightlyCoder/beTheKnightOf_Amber)
+[![Knight of Amber](https://img.shields.io/static/v1?label=beTheKnightOf&message=Amber&color=F8BBD0)](https://github.com/Real-JasonWang/beTheKnightOf_Amber)
 
 Every character typed, every snippet of logic, constitutes a youthful declaration of love for Amber. These guidelines are more than rules for code; they are a delivery of heartfelt sentiment.
 
@@ -13,12 +13,12 @@ Every character typed, every snippet of logic, constitutes a youthful declaratio
 
 If you share this profound love and are willing to become **a knight for Amber**, then proudly adorn your code with the "Knight of Amber" badge:
 
-[![Knight of Amber](https://img.shields.io/static/v1?label=beTheKnightOf&message=Amber&color=F8BBD0)](https://github.com/knightlyCoder/beTheKnightOf_Amber)
+[![Knight of Amber](https://img.shields.io/static/v1?label=beTheKnightOf&message=Amber&color=F8BBD0)](https://github.com/Real-JasonWang/beTheKnightOf_Amber)
 
 **Badge source code:**
 
 ```
-[![Knight of Amber](https://img.shields.io/static/v1?label=beTheKnightOf&message=Amber&color=F8BBD0)](https://github.com/knightlyCoder/beTheKnightOf_Amber)
+[![Knight of Amber](https://img.shields.io/static/v1?label=beTheKnightOf&message=Amber&color=F8BBD0)](https://github.com/Real-JasonWang/beTheKnightOf_Amber)
 ```
 
 ## 💞 Guidelines
